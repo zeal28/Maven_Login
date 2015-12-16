@@ -57,7 +57,7 @@
 			});
 		</script>
 		<form class="form-vertical login-form" id="f_login">
-			<h3 class="form-title">Login to your account....</h3>
+			<h3 class="form-title">Login to your account..</h3>
 			<div class="alert alert-error hide">
 				<button class="close" data-dismiss="alert"></button>
 				<span>Enter any username and password.</span>
